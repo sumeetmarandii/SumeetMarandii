@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumitMarandi](https://github.com/SumitMarandi)
 
-- 📝 I regularly write articles on [https://sumitmarandi.github.io/myBlog/](https://sumitmarandi.github.io/myBlog/)
+- 📝 I regularly write articles on [https://sumeetmarandii.github.io/myBlog/](https://sumeetmarandii.github.io/myBlog/)
 
 - 💬 Ask me about **PHP, MySQL, HTML, CSS, JS, etc.**
 
@@ -24,7 +24,7 @@
 - ⚡ Fun fact **I'm boring.**
 
 ### Blogs posts
-<p>I write here: <a href="https://sumitmarandi.github.io/myBlog/">myBlog</a></p>
+<p>I write here: <a href="https://sumeetmarandii.github.io/myBlog/">myBlog</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
