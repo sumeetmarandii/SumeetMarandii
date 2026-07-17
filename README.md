@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Expo, MongoDB, Docker, etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SumitMarandi](https://github.com/SumitMarandi)
+- 👨‍💻 All of my projects are available at [https://github.com/sumeetmarandii](https://github.com/sumeetmarandii)
 
 - 📝 I regularly write articles on [https://sumeetmarandii.github.io/myBlog/](https://sumeetmarandii.github.io/myBlog/)
 
