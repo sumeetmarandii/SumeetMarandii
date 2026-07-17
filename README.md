@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitmarandi" alt="sumitmarandi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sumeetmarandii" target="blank"><img src="https://img.shields.io/twitter/follow/sumeetmarandii?logo=twitter&style=for-the-badge" alt="sumeetmarandii" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sumeetmarandii" target="_blank"><img src="https://img.shields.io/twitter/follow/sumeetmarandii?logo=twitter&style=for-the-badge" alt="sumeetmarandii" /></a> </p>
 
 - 🔭 I’m currently working on [unpost club](https://www.unpost.club)
 
