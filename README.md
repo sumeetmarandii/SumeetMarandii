@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/sumeetmarandii" target="_blank"><img src="https://img.shields.io/twitter/follow/sumeetmarandii?logo=twitter&style=for-the-badge" alt="sumeetmarandii" /></a> </p>
 
-- 🔭 I’m currently working on [unpost club](https://www.unpost.club)
+- 🔭 I’m currently working on [biller | ZeroFy](https://biller.zerofy.me) & [ZeroFy](https://zerofy.me)
 
 - 🌱 I’m currently learning **React, Expo, MongoDB, Docker, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumeetmarandii](https://github.com/sumeetmarandii)
 
-- 📝 I regularly write articles on [https://sumeetmarandii.github.io/myBlog/](https://sumeetmarandii.github.io/myBlog/)
+- 📝 I write articles on [https://sumeetmarandii.github.io/myBlog/](https://sumeetmarandii.github.io/myBlog/)
 
 - 💬 Ask me about **PHP, MySQL, HTML, CSS, JS, etc.**
 
 - 📫 How to reach me **sm@marandi.in**
 
-- 📄 Know about my experiences [https://sm.marandi.in](https://sm.marandi.in)
+- 📄 Know about my experiences [About Me](https://sumeetmarandii.github.io/myBlog/about/)
 
 - ⚡ Fun fact **I'm boring.**
 
